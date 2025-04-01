@@ -2,7 +2,7 @@
 
 CoreNews.AI 是一套使用 Python 開發的自動化新聞彙整系統，結合爬蟲技術與 HTML Email 模板，透過 crontab 排程每日自動蒐集多個網站的 AI 新聞，並寄送格式精美的新聞摘要郵件。
 
-![Demo Screenshot](https://raw.githubusercontent.com/EVANLIN2001/AI-News-Daily/main/image/%E6%88%AA%E5%9C%96%202025-04-02%20%E4%B8%8A%E5%8D%8812.09.46.png)
+<img src="https://raw.githubusercontent.com/EVANLIN2001/AI-News-Daily/main/image/%E6%88%AA%E5%9C%96%202025-04-02%20%E4%B8%8A%E5%8D%8812.09.46.png" alt="Demo Screenshot" width="600">
 
 ## 功能特色
 
